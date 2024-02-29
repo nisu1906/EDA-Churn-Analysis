@@ -72,7 +72,8 @@ Churn rate:
 Without Phone services – 25%
 With Partner – 26.74%
 
-![image](https://github.com/nisu1906/EDA-Churn-Analysis/assets/150984180/bd52a933-999c-43aa-bee7-bcf28882cec4)
+![image](https://github.com/nisu1906/EDA-Churn-Analysis/assets/150984180/9dc72b0c-5282-4717-a168-1808a55074e9)
+
 
 #### Multiplelines vs Churn
 There is a notable difference in churn rates between customers with and without multiple lines, with rates of 28.64% and 33.47% respectively. This suggests that the presence of multiple lines may contribute to a lower churn rate, potentially indicating greater satisfaction or engagement among this customer segment
